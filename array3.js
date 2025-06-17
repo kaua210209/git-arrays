@@ -7,4 +7,4 @@ nomeFilme[0][0]= 'Homem Aranha'
 nomeFilme[3][1]= 'Will Smith'
 nomeFilme[8][2]= 2015
 
-console.log(nomeFilme)
+console.log(nomeFilme);

@@ -12,4 +12,4 @@ pessoa.idade= 17
 pessoa.nome= 'Vitória'
 pessoa.endereço.rua= 'Rua joaquim Teodoro Da Silva'
 
-console.log('FichaCompleta:', pessoa);
+console.log('FichaCompleta:', pessoa)
