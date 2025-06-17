@@ -13,4 +13,4 @@ pessoa.responsavel.id = '258741369';
 pessoa.profissão = 'Estudante';
 pessoa.responsavel.profissão = 'Aposentado';
 
-console.log(pessoa)
+console.log(pessoa);

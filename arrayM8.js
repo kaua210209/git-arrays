@@ -4,4 +4,4 @@ let video = produtos.slice(4);
 
 console.log("Core (slice):", core);
 console.log("Vídeo (slice):", video);
-console.log("Array Original (não mudou):", produtos)
+console.log("Array Original (não mudou):", produtos);

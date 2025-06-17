@@ -10,4 +10,4 @@ fichaAluno[3].rua= 'Secundaria'
 fichaAluno[3].num= '321'
 fichaAluno[4][0]= 'Geografia'
 
-console.log('fichaCompleta:',fichaAluno)
+console.log('fichaCompleta:',fichaAluno);
